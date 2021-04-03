@@ -15,14 +15,14 @@ A fim de auxiliar as pessoas na prevenção dos efeitos que surgem com a degrada
 ↻ Levantamento de Requisitos 
 
 ##  Sumário
-- [Sobre](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#SobreoProjeto "Sobre")
-- [Sumário](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#Sumário "Sumário")
-- [Requisitos Funcionais](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#RequisitosFuncionais " Requisitos Funcionais")
-- [Tecnologias Usadas](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#TecnologiasUsadas "Tecnologias Usadas")
-- [Contribuição](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#Contribuição "Contribuição")
-- [Autores](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#Autores "Autores")
-- [Licença](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#Licença "Licença")
-- [Agradecimentos](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#Agradecimentos "Agradecimentos")
+- [Sobre](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#agradecimentos "Sobre")
+- [Sumário](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#sum%C3%A1rio "Sumário")
+- [Requisitos Funcionais](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#requisitos-funcionais "Requisitos Funcionais")
+- [Tecnologias Usadas](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#tecnologias-usadas "Tecnologias Usadas")
+- [Contribuição](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#contribui%C3%A7%C3%A3o "Contribuição")
+- [Autores](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#autores "Autores")
+- [Licença](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#licen%C3%A7a "Licença")
+- [Agradecimentos](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#agradecimentos "Agradecimentos")
 
 ## Requisitos Funcionais
 ↻ 
