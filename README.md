@@ -15,7 +15,7 @@ A fim de auxiliar as pessoas na prevenção dos efeitos que surgem com a degrada
 ↻ Levantamento de Requisitos 
 
 ##  Sumário
-- [Sobre](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#agradecimentos "Sobre")
+- [Sobre](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#sobre-o-projeto "Sobre")
 - [Sumário](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#sum%C3%A1rio "Sumário")
 - [Requisitos Funcionais](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#requisitos-funcionais "Requisitos Funcionais")
 - [Tecnologias Usadas](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#tecnologias-usadas "Tecnologias Usadas")
