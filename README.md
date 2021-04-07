@@ -28,7 +28,7 @@ A fim de auxiliar as pessoas na prevenção dos efeitos que surgem com a degrada
 ↻ 
 
 ## Tecnologias Usadas
-↻ 
+- Flutter  
 
 ## Contribuição
 Leia o arquivo [CONTRIBUTING.md](http://github.com/projeto-unabr/Groot-App/blob/main/CONTRIBUTING.md "CONTRIBUTING.md") para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
