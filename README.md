@@ -1,6 +1,6 @@
 # Groot
 
-<a href="https://ibb.co/G9QtmPM"><img src="https://i.ibb.co/0KyF5J9/Logo.png" alt="Logo" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/KqvX56L/logogrootsemdegrade.png" alt="logogrootsemdegrade" border="0"></a>
 
 
 ###  Sobre o Projeto
