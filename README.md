@@ -34,7 +34,21 @@ A fim de auxiliar as pessoas na prevenção dos efeitos que surgem com a degrada
 Leia o arquivo [CONTRIBUTING.md](http://github.com/projeto-unabr/Groot-App/blob/main/CONTRIBUTING.md "CONTRIBUTING.md") para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
 
 ## Autores
-<a href="https://ibb.co/vXY9N7j"><img src="https://i.ibb.co/SfrSkh3/Equipe.png" alt="Equipe" border="0"></a>
+
+<table>
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/maria-eduarda-benício-0112961ab"><img style="border-radius: 50%;" src="https://i.ibb.co/KrsqqYG/Maria-Eduarda-1.png" width="150px;" alt=""/><br /><sub><b>Maria Eduarda</b></sub></a><br /></td>
+      <td align="center"><a href="https://www.linkedin.com/in/kevin-ramos-71ba56209"><img style="border-radius: 50%;" src="https://i.ibb.co/MRJG2cW/kevin.png" width="150px;" alt=""/><br /><sub><b>Kevin Ramos</b></sub></a><br /></td>
+      <td align="center"><a href="https://"><img style="border-radius: 50%;" src="https://i.ibb.co/KjQfRdS/Thais-2.png" width="150px;" alt=""/><br /><sub><b>Thais Cristina</b></sub></a><br /></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/giovane-junio-767bb3170"><img style="border-radius: 50%;" src="https://i.ibb.co/MCKWWBn/Giovane-1.png" width="150px;" alt=""/><br /><sub><b>Giovane Junio</b></sub></a><br /></td>
+      <td align="center"><a href="https://www.linkedin.com/in/raibrito"><img style="border-radius: 50%;" src="https://i.ibb.co/2S5TJy9/Rai-1.png" width="150px;" alt=""/><br /><sub><b>Raphaela Brito</b></sub></a><br /></td>
+      <td align="center"><a href="https://www.linkedin.com/in/marcello-david-gilmour-87b7a918a"><img style="border-radius: 50%;" src="https://i.ibb.co/DDPJR2b/Marcello-1.png" width="150px;" alt=""/><br /><sub><b>Marcello David</b></sub></a><br /></td>
+      <td align="center"><a href="https://www.linkedin.com/in/tiago-costa-80a34097"><img style="border-radius: 50%;" src="https://i.ibb.co/qpZDqjH/Thiago-1.png" width="150px;" alt=""/><br /><sub><b>Tiago Costa</b></sub></a><br/></td>
+    </tr>
+  </table>
+  
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](https://github.com/projeto-unabr/Groot-App/blob/main/LICENSE "LICENSE.md") para mais detalhes.
