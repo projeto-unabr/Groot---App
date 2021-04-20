@@ -54,4 +54,9 @@ Leia o arquivo [CONTRIBUTING.md](http://github.com/projeto-unabr/Groot-App/blob/
 Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](https://github.com/projeto-unabr/Groot-App/blob/main/LICENSE "LICENSE.md") para mais detalhes.
 
 ## Agradecimentos
-↻ 
+Deixamos nosso agradecimento pela colaboração das parcerias que apoiam o desenvolvimento do aplicativo Groot.
+
+- Agradecemos a vereadora [Duda Salabert](http://https://dudasalabert.com.br/ "Duda Salabert"), por acreditar na aplicação como um meio de facilitar o acesso à áreas de plantio aos cidadãos e por impulsionar trabalhos como este;
+- Ao [Projeto PomarBH](http://https://www.instagram.com/projetopomarbh/ "Projeto PomarBH"), que está contribuindo diretamente para o aceleramento da arborização na cidade de Belo Horizonte; 
+- Aos professores [Diego](http://https://www.linkedin.com/in/diegoaugustobarros "Diego") e [Wesley](http://https://www.linkedin.com/in/wesley-maciel-221a823a "Wesley") pela dedicação e empenho no decorrer de cada etapa,por todas as orientações e inspirações que fazem o projeto crescer, agregando conhecimento à nossa formação acadêmica. 
+- E por fim, a professora [Fernanda Raggi](http://https://www.linkedin.com/in/fernanda-raggi-grossi-5552418b "Fernanda Raggi"), pelo apoio e pelo direcionamento, agregando toda a sua experiência e conhecimento, além de se tornar uma inspiração para evolução do projeto.
