@@ -7,10 +7,12 @@
 
 A fim de auxiliar as pessoas na prevenção dos efeitos que surgem com a degradação do meio ambiente, a aplicação Groot disponibilizará uma plataforma para divulgação e administração de ambientes públicos propensos ao plantio de árvores. Permitindo ao usuário descobrir locais disponíveis para plantio, plantas adequadas para aquele tipo de solo, além de promover a interação da comunidade cooperadora.
 
-##### Status do Projeto: 
+#### Status do Projeto: 
 ✔ Escolha do Tema
 
-✔ Criação das personas/histórias de usuários
+✔ Criação das Personas/histórias de usuários
+
+✔ Criação de Cenários
 
 ↻ Levantamento de Requisitos 
 
