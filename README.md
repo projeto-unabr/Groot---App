@@ -27,7 +27,14 @@ A fim de auxiliar as pessoas na prevenção dos efeitos que surgem com a degrada
 - [Agradecimentos](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#agradecimentos "Agradecimentos")
 
 ## Requisitos Funcionais
-↻ 
+- [ ] Mapa Estático - Regional
+- [ ] Cadastro de Novas Áreas
+- [ ] Comunicação entre Usuários
+- [ ] Selo de Verificação - Mudas
+(QR Code)
+- [ ] Catálogo de Espécies
+- [ ] Espaço para Parceiros
+- [ ] Rankeamento
 
 ## Tecnologias Usadas
 - Flutter  
