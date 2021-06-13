@@ -28,7 +28,7 @@ A fim de auxiliar as pessoas na prevenção dos efeitos que surgem com a degrada
 
 ## Requisitos Funcionais
 
-Link de acesso ao protótipo Hi-fi: https://www.figma.com/file/ETBgVqmVieLF7eWws5is3N/Groot?node-id=53%3A2733
+Link de acesso ao protótipo Hi-fi: https://www.figma.com/proto/ETBgVqmVieLF7eWws5is3N/Groot?page-id=0%3A1&node-id=19%3A109&viewport=429%2C472%2C0.05837205424904823&scaling=scale-down 
 
 - [ ] Mapa Estático - Regional
 - [ ] Cadastro de Novas Áreas
