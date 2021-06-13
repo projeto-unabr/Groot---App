@@ -27,6 +27,9 @@ A fim de auxiliar as pessoas na prevenção dos efeitos que surgem com a degrada
 - [Agradecimentos](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#agradecimentos "Agradecimentos")
 
 ## Requisitos Funcionais
+
+Link de acesso ao protótipo Hi-fi: https://www.figma.com/file/ETBgVqmVieLF7eWws5is3N/Groot?node-id=53%3A2733
+
 - [ ] Mapa Estático - Regional
 - [ ] Cadastro de Novas Áreas
 - [ ] Comunicação entre Usuários
