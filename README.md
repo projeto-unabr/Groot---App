@@ -14,7 +14,14 @@ A fim de auxiliar as pessoas na prevenção dos efeitos que surgem com a degrada
 
 ✔ Criação de Cenários
 
-↻ Levantamento de Requisitos 
+✔ Levantamento de Requisitos 
+
+✔ Criação de Artigo
+
+✔ Protótipo Lo-fi e Hi-fi
+
+✔ Implementação da primeira versão do app
+
 
 ##  Sumário
 - [Sobre](https://github.com/projeto-unabr/Groot-App/blob/main/README.md#sobre-o-projeto "Sobre")
