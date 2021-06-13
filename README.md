@@ -54,7 +54,6 @@ Leia o arquivo [CONTRIBUTING.md](http://github.com/projeto-unabr/Groot-App/blob/
     <tr>
       <td align="center"><a href="https://www.linkedin.com/in/giovane-junio-767bb3170"><img style="border-radius: 50%;" src="https://i.ibb.co/MCKWWBn/Giovane-1.png" width="150px;" alt=""/><br /><sub><b>Giovane Junio</b></sub></a><br /></td>
       <td align="center"><a href="https://www.linkedin.com/in/raibrito"><img style="border-radius: 50%;" src="https://i.ibb.co/2S5TJy9/Rai-1.png" width="150px;" alt=""/><br /><sub><b>Raphaela Brito</b></sub></a><br /></td>
-      <td align="center"><a href="https://www.linkedin.com/in/marcello-david-gilmour-87b7a918a"><img style="border-radius: 50%;" src="https://i.ibb.co/DDPJR2b/Marcello-1.png" width="150px;" alt=""/><br /><sub><b>Marcello David</b></sub></a><br /></td>
       <td align="center"><a href="https://www.linkedin.com/in/tiago-costa-80a34097"><img style="border-radius: 50%;" src="https://i.ibb.co/qpZDqjH/Thiago-1.png" width="150px;" alt=""/><br /><sub><b>Tiago Costa</b></sub></a><br/></td>
     </tr>
   </table>
