@@ -35,20 +35,20 @@ A fim de auxiliar as pessoas na prevenção dos efeitos que surgem com a degrada
 
 ## Requisitos Funcionais
 
-Link de acesso ao protótipo Hi-fi: https://www.figma.com/proto/ETBgVqmVieLF7eWws5is3N/Groot?page-id=0%3A1&node-id=19%3A109&viewport=429%2C472%2C0.05837205424904823&scaling=scale-down 
+[Acesso ao protótipo Hi-fi](https://www.figma.com/proto/ETBgVqmVieLF7eWws5is3N/Groot?page-id=0%3A1&node-id=19%3A109&viewport=429%2C472%2C0.05837205424904823&scaling=scale-down) 
+[Acesso ao repositório do aplicativo](https://github.com/projeto-unabr/groot_app)
 
-- [ ] Mapa Estático - Regional
+- [X] Mapa Estático - Regional
 - [ ] Cadastro de Novas Áreas
 - [ ] Comunicação entre Usuários
-- [ ] Selo de Verificação - Mudas
+- [X] Selo de Verificação - Mudas
 (QR Code)
-- [ ] Catálogo de Espécies
-- [ ] Espaço para Parceiros
+- [X] Catálogo de Espécies
+- [X] Espaço para Parceiros
 - [ ] Rankeamento
 
 ## Tecnologias Usadas
 - Flutter  
-- Node
 
 ## Contribuição
 Leia o arquivo [CONTRIBUTING.md](http://github.com/projeto-unabr/Groot-App/blob/main/CONTRIBUTING.md "CONTRIBUTING.md") para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
@@ -77,5 +77,5 @@ Deixamos nosso agradecimento pela colaboração das parcerias que apoiam o desen
 
 - Agradecemos a vereadora [Duda Salabert](http://dudasalabert.com.br/ "Duda Salabert"), por acreditar na aplicação como um meio de facilitar o acesso à áreas de plantio aos cidadãos e por impulsionar trabalhos como este;
 - Ao [Projeto PomarBH](http://www.instagram.com/projetopomarbh/ "Projeto PomarBH"), que está contribuindo diretamente para o aceleramento da arborização na cidade de Belo Horizonte; 
-- Aos professores [Diego](http://www.linkedin.com/in/diegoaugustobarros "Diego") e [Wesley](http://www.linkedin.com/in/wesley-maciel-221a823a "Wesley") pela dedicação e empenho no decorrer de cada etapa,por todas as orientações e inspirações que fazem o projeto crescer, agregando conhecimento à nossa formação acadêmica. 
+- Aos professores [Diego](http://www.linkedin.com/in/diegoaugustobarros "Diego"), [Alexandre Montanha](https://www.linkedin.com/in/alexandre-oliveira-montanha/), [Severino]() e [Wesley](http://www.linkedin.com/in/wesley-maciel-221a823a "Wesley") pela dedicação e empenho no decorrer de cada etapa,por todas as orientações e inspirações que fazem o projeto crescer, agregando conhecimento à nossa formação acadêmica. 
 - E por fim, a professora [Fernanda Raggi](https://www.linkedin.com/in/fernanda-raggi-grossi-5552418b "Fernanda Raggi"), pelo apoio e pelo direcionamento, agregando toda a sua experiência e conhecimento, além de se tornar uma inspiração para evolução do projeto.
